@@ -1,0 +1,2 @@
+df2cde63a0a605e1a14e71418564008fbf547defbeab1c1eb49820218265cac2  GameLauncher-macOS.zip
+46f0a1ad63f2095094e35971b23053ea5b1892e3499a65aeb043eb578e953768  gamelauncher-linux.tar.gz

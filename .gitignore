@@ -1,0 +1,11 @@
+.DS_Store
+GameLauncherMac/.build/
+GameLauncherMac/.cache/
+GameLauncherMac/build/
+launcher-linux/dist/
+assets/GameLauncher.iconset/
+release/*.zip
+release/*.tar.gz
+*.zip
+node_modules/
+launcher/

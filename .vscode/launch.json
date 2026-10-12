@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:emulateur ios}/GameLauncherMac",
+            "name": "Debug GameLauncher (GameLauncherMac)",
+            "target": "GameLauncher",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug GameLauncher (GameLauncherMac)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:emulateur ios}/GameLauncherMac",
+            "name": "Release GameLauncher (GameLauncherMac)",
+            "target": "GameLauncher",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release GameLauncher (GameLauncherMac)"
+        }
+    ]
+}
